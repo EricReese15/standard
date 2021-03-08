@@ -16,7 +16,7 @@ In this Primer, you will find resources to help you answer these questions:
 
 *   [What is OCDS?](what_is_OCDS)
 *   [How does OCDS work?](how_does_OCDS_work)
-*   [How is OCDS data published?](how_is_OCDS_published)
+*   [How is OCDS data published?](how_is_OCDS_data_published)
 *   [How can I implement OCDS?](how_can_i_implement_OCDS)
 
 Beyond the Primer, OCDS provides detailed documentation to guide you in implementing the standard. These other sections of the documentation cover:
