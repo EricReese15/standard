@@ -1,10 +1,15 @@
 # How can I implement OCDS?
+```{eval-rst}
+.. admonition:: Objectives
+   :class: note
+
+   .. markdown::
 
 Implementing the Open Contracting Data Standard (OCDS) is driven by the guidance and reference sections of the documentation. This page exists to:
 
 *   Outline next steps you can follow to start implementing OCDS documentation
 *   Direct you to resources for getting help on implementing OCDS
-
+```
 Beyond the Primer, we have developed detailed documentation to guide you in implementing the Open Contracting Data Standard. The remainder of the documentation covers:
 
 *   [Guidance](https://standard.open-contracting.org/latest/en/guidance/): Step-by-step instructions on how to design and implement an OCDS publication, including helpful tools and examples
