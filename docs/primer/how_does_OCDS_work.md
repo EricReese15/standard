@@ -15,12 +15,14 @@ In designing OCDS, we explored a range of different user needs and use cases for
 
 The way OCDS does this, in addition to the OCID, is with its **schema**. The schema is documented in the [Reference](https://standard.open-contracting.org/latest/en/schema/) section. It sets out the fields, structure, data types and validation rules for OCDS data. The schema is described using JSON Schema, and the default format of the data is JSON (JavaScript Object Notation).
 
-```
-JSON vs. CSV
+<div class="example hint" markdown=1>
+<p class="first admonition-title">JSON vs. CSV</p>
+
 While OCDS schema is described using JSON Schema, OCDS can also be published in CSV format. JSON is favored by developers because it uses human-readable text to exchange complex information, such as nested objects. It can contain large volumes of information and is particularly good at handling one-to-many relationships (such as multiple bids per tender notice).
 
 CSV (or comma separated values) is a file format commonly used for spreadsheets. Many people are comfortable working with spreadsheets using tools like Excel. While JSON is the preferred format, a good publication will publish both so that more users' needs can be satisfied.
-```
+
+</div>
 
 When mapping your data to OCDS, or when using OCDS data, you will encounter a number of common data structures, which are represented in the schema:
 
@@ -38,7 +40,11 @@ Whichever format you choose, following OCDS rules and guidance will help you to:
 *   Access a growing ecosystem of reusable tools and methodologies for working with OCDS data
 *   Compare your data with other publishers’ data to examine value for money and other types of analysis
 
- ```
+ ```{eval-rst}
+.. note::
+
+   .. markdown::
+
 To learn more, go to the next page in the primer: How is OCDS data published? You can also review the further resources below to go deeper into the subjects introduced on this page.
 
 [Guidance to implementing OCDS](https://standard.open-contracting.org/latest/en/guidance/)
@@ -46,4 +52,3 @@ To learn more, go to the next page in the primer: How is OCDS data published? Yo
 [Open Contracting Playbook: Component 2](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit#heading=h.44c3tmyw3edx)
 ```
 [Button: previous page]					   		     [Button: next page]
-
