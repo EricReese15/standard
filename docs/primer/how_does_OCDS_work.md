@@ -1,10 +1,15 @@
 # How does OCDS work?
+```{eval-rst}
+.. admonition:: Objectives
+   :class: note
+
+   .. markdown::
 
 The Open Contracting Data Standards (OCDS) is designed to support publishing data about contracting processes. This page exists to:
 
 *   Show how a contracting process is represented using OCDS
 *   Describe the formats for publishing OCDS
-
+```
 OCDS defines a unique contracting process as all the actions aimed at concluding one or more contracts. This covers tendering, awarding, contracting and implementation.
 
 An individual contracting process has many different stages. We bring together the data published at each stage using a single contracting process identifier: the **OCID**.
