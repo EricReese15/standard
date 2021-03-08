@@ -1,8 +1,6 @@
-## Primer Landing Page
+# Primer
 
 This Primer to the Open Contracting Data Standard (OCDS) will help you get started in publishing OCDS data. It exists to:
-
-
 
 *   Define core concepts for understanding OCDS
 *   Direct you to the relevant sections of the documentation based on your needs
@@ -11,32 +9,12 @@ The OCDS documentation is your key resource to implementing the standard. It pro
 
 In this Primer, you will find resources to help you answer these questions:
 
-
-
-*   
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "What is OCDS?"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[What is OCDS?](#heading=h.iy7k3ibn647m)
-*   
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "How does OCDS work?"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[How does OCDS work?](#heading=h.kr81jnelspwm)
-*   
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "How is OCDS data published?"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[How is OCDS data published?](#heading=h.9ipbhujb1u5a)
-*   
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "How can I implement OCDS?"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[How can I implement OCDS?](#heading=h.96bgr1yn4ks0)
+*   What is OCDS?
+*   How does OCDS work?
+*   How is OCDS data published?
+*   How can I implement OCDS?
 
 Beyond the Primer, OCDS provides detailed documentation to guide you in implementing the standard. These other sections of the documentation cover:
-
-
 
 *   [Guidance](https://standard.open-contracting.org/latest/en/guidance/): Step-by-step instructions on how to design and implement an OCDS publication, including helpful tools and examples
 *   [Reference](https://standard.open-contracting.org/latest/en/schema/): Describing the specific rules that need to be followed to publish OCDS data
@@ -46,7 +24,3 @@ Beyond the Primer, OCDS provides detailed documentation to guide you in implemen
 *   [Data Review Tool](https://standard.open-contracting.org/review/): A tool to help check whether your data is following the OCDS correctly.
 
 [Button: previous page]					   		     [Button: next page]
-
-
-## 
-
