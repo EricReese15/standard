@@ -1,11 +1,16 @@
 # How is OCDS data published?
+```{eval-rst}
+.. admonition:: Objectives
+   :class: note
+
+   .. markdown::
 
 Open Contracting Data Standard (OCDS) data is published and updated over time as two JSON document formats: “releases” and “records”.  This page exists to:
 
 *   Outline the purpose of releases and records
 *   Describe how to publish a change history using releases and records 
 *   Show the components of an OCDS record
-
+```
 The only thing that can be truly called “OCDS data” is a JSON document that validates against the OCDS schema. The JSON documents that OCDS uses are called “releases” and “records.”
 
 Within a contracting process, there are usually 5 stages associated with major events that mark the progress from one stage to another, like an award notice. Smaller events take place within a stage, like a deadline extension for bidding. In OCDS, all updates are published as immutable **releases**. Releases are JSON documents that are published each time there is an update in the process following the [release schema](https://standard.open-contracting.org/latest/en/schema/reference/). 
